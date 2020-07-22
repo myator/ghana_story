@@ -1,0 +1,21 @@
+body{
+    background-color: #11ffee00;
+}
+
+.centered-form{
+	margin-top: 60px;
+}
+
+#notification{
+    display: none;
+}
+
+#hbd-results{
+    display: none;
+}
+
+.hbd-body{
+    border-radius: 3px;
+    background-color: ##777799;
+    border: #525252 solid 1px;
+}
